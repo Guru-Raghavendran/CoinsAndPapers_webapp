@@ -1,0 +1,9 @@
+INDEX VERSION 1.3+C:\Users\Guru\Documents\Niit_project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2005581176.index
+317800285.index
+2236026877.index
+3411067651.index
+2236026877.index
+2896472381.index
+181230740.index
+442975119.index

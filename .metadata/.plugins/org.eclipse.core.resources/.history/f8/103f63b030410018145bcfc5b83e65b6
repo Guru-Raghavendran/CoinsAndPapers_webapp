@@ -1,0 +1,9 @@
+package com.niit.model;
+
+public class Cart {
+	private int id;
+	private double grandTotal;
+	
+	
+	private Customer customer;
+}

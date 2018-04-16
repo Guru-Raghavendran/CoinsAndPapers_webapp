@@ -1,0 +1,36 @@
+package com.niit.frontend.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class PageController {
+
+	@RequestMapping("/")
+	public String goToHome() {
+		return "Home";
+	}
+	
+	
+	@RequestMapping("/ContactUs")
+	public String goToContact() {
+		return "ContactUs";
+	}
+	
+	
+	@RequestMapping("/AboutUs")
+	public String goToAbout() {
+		return "AboutUs";
+	}
+	
+	@RequestMapping("/Login")
+	public String goToLogin() {
+		return "Login";
+	}
+	
+	@RequestMapping("/SignUp")
+	public String goToSingUp() {
+		return "SignUp";
+	}
+	
+}

@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Mon Apr 16 14:44:36 IST 2018
+org.eclipse.jst.j2ee.server\:BackEnd=WEB-INF/lib/BackEnd-1.0-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:MiddleEnd=WEB-INF/lib/MiddleEnd-1.0-SNAPSHOT.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Guru\\.m2\\repository\\org\\springframework\\spring-web\\5.0.4.RELEASE\\spring-web-5.0.4.RELEASE.jar=WEB-INF/lib/spring-web-5.0.4.RELEASE.jar
